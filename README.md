@@ -11,5 +11,3 @@ It now includes steps for GitHub
 Add extra line to modify README.md
 
 On branch update-readme
-
-Add extra line for push local branch to github
